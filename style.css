@@ -97,3 +97,17 @@ div.titulo{
     width: 250px;
 padding-left: 30px;
 }
+
+
+.conteudo-op{
+
+    color: yellow;
+    text-align: center;
+    margin: auto;
+    height: 65px;
+    width: 450px;
+    border-color: black;
+    font-size: 5mm;
+    border-style: solid ;
+    padding-top: 40px;
+    padding-bottom: 45px;}
