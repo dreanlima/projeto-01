@@ -47,11 +47,14 @@ h1#principal{
     
     text-align: center;
     margin: auto;
-    height: 100px;
+    height: 65px;
     width: 500px;
     color: rgb(8, 9, 8);
     font-size: 5mm;
     border-style: solid ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
    
     
 }
