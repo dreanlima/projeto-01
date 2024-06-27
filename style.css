@@ -1,0 +1,67 @@
+@charset "UTF-8";
+body{
+    background: linear-gradient(to bottom, #7db9e8 0%,#2989d8 21%,#2989d8 52%,#207cca 78%,#207cca 78%,#207cca 83%,#7db9e8 99%); 
+}
+/* em html é id = em css #
+    em hrml class = . css */
+
+
+h1#principal{ 
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+   
+}
+
+.nome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.mulher{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding-top: 30px;
+}
+
+.subtitulo{
+    color: rgb(49, 71, 4);             
+    text-align: center;
+    text-decoration: underline;
+}
+
+.assunto{
+    text-align:center;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+
+
+.conteudo{
+    
+    text-align: center;
+    margin: auto;
+    height: 100px;
+    width: 500px;
+    color: rgb(8, 9, 8);
+    font-size: 5mm;
+    border-style: solid ;
+   
+    
+}
+
+
+.seletor{
+    position: absolute;
+    right: 0px;
+}
+
+div.titulo{
+    width: 300px;
+}
