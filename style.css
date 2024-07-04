@@ -21,7 +21,7 @@
 body{
     padding-bottom: 20px;
     background-color:var(--cor1);
-    font-family: var(--fonte-titulo);
+   
 }
 
 header{
@@ -34,9 +34,9 @@ header{
 }
 
 header h1{
-    background-image: linear-gradient(to bottom,hsl(208, 100%, 97%) , var(--cor5));
+    background-image: linear-gradient(to left,hsl(208, 100%, 97%) , var(--cor5));
     font-family: var(--fonte-titulo);
-    font-size: 1.3em;
+    
 
 }
 header h2{
