@@ -22,3 +22,10 @@ body{
     background-color:var(--cor1);
     font-family: var(--fonte-titulo);
 }
+
+header{
+    font-family: var(--fonte-titulo);
+    color: var(--cor5);
+    background-image:  linear-gradient(to left, var(--cor1), transparent);
+    text-align: center;
+}
