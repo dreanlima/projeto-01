@@ -24,14 +24,15 @@ body{
 }
 
 header{
-    font-family: var(--fonte-titulo);
-    color: var(--cor5);
-    background-image:  linear-gradient(to left, var(--cor1), transparent);
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    min-height: 150px;
     text-align: center;
+    padding-top: 40px;
+    font-family: var(--fonte-titulo);
 }
 
 header > h1{
     font-family: var(--fonte-subtitulo);
-    
+
 
 }
